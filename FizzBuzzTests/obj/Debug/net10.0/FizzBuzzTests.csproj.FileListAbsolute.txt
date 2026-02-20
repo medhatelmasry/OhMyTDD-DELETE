@@ -97,3 +97,4 @@
 /Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzTests/obj/Debug/net10.0/FizzBuzzTests.pdb
 /Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzTests/obj/Debug/net10.0/FizzBuzzTests.genruntimeconfig.cache
 /Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzTests/obj/Debug/net10.0/ref/FizzBuzzTests.dll
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzTests/obj/Debug/net10.0/FizzBuzzTests.sourcelink.json

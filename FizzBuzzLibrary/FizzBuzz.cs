@@ -4,6 +4,7 @@ namespace FizzBuzzLibrary;
 
 public class FizzBuzz
 {
+    /*
     public string GetResult(int number)
     {
 
@@ -28,6 +29,25 @@ public class FizzBuzz
         }
 
         return result;
+    }*/
+    public string GetResult(object o)
+    {
+        switch (o)
+        {
+            case string s when s.Contains("Fizz") || s.Contains("Buzz"):
+                return s;
+            case int n when n % 5 == 0 && n % 3 == 0:
+                return "FizzBuzz";
+            case int n when n % 5 == 0:
+                return "Buzz";
+            case int n when n % 3 == 0:
+                return "Fizz";
+            case int n:
+                return n.ToString();
+            default:
+                throw new ArgumentException("Invalid input type");
+        }
     }
+
 
 }
