@@ -42,6 +42,8 @@ public class FizzBuzz
                 return "Buzz";
             case int n when n % 3 == 0:
                 return "Fizz";
+            case int n when n < 0 || n > 10000:
+                throw new Exception("Number cannot exceed 10000 or be negative");
             case int n:
                 return n.ToString();
             default:
