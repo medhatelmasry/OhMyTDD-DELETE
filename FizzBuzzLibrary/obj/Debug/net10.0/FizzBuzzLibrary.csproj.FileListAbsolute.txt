@@ -1,0 +1,11 @@
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/bin/Debug/net10.0/FizzBuzzLibrary.deps.json
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/bin/Debug/net10.0/FizzBuzzLibrary.dll
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/bin/Debug/net10.0/FizzBuzzLibrary.pdb
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.AssemblyInfoInputs.cache
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.AssemblyInfo.cs
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.csproj.CoreCompileInputs.cache
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.dll
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/refint/FizzBuzzLibrary.dll
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/FizzBuzzLibrary.pdb
+/Users/medhatelmasry/_PlayGround/4870/OhMyTDD/FizzBuzzLibrary/obj/Debug/net10.0/ref/FizzBuzzLibrary.dll
